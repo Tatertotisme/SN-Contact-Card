@@ -1,0 +1,12 @@
+{
+  "identifier": "contact-card-plugin",
+  "name": "Contact Card Plugin",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "1.0.0",
+  "description": "A plugin to manage and display contact cards in Standard Notes.",
+  "permissions": [],
+  "author": "Your Name",
+  "tags": ["contact", "card", "plugin"],
+  "index_path": "index.html"
+}
